@@ -1,0 +1,25 @@
+{
+  "name": "np-init",
+  "version": "1.0.0",
+  "description": "The better way to initialize an npm project!",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/soupCodez/np-init.git"
+  },
+  "keywords": [
+    "cli"
+  ],
+  "author": "soupCodez",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/soupCodez/np-init/issues"
+  },
+  "homepage": "https://github.com/soupCodez/np-init#readme",
+  "dependencies": {
+    "inquirer": "^8.0.0"
+  },
+  "bin":  {
+    "init": "init.js"
+  }
+}
